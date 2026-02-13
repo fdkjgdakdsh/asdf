@@ -4,5 +4,5 @@ numpy
 datetime
 scipy
 math
-schwabdev
+schwabdev 3.0.3
 collections
